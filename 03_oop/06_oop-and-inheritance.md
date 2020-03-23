@@ -36,3 +36,5 @@ const doby = new Elf("Doby", "House of Fallstar", "Aspen Bow", "elf");
 console.log(doby.battleCry());
 console.log(doby.attack());
 ```
+
+CodePen: https://codepen.io/RubenSibon/pen/KKpzyjV

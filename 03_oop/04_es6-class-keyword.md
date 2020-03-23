@@ -33,3 +33,5 @@ console.log(legolas.attack());
 console.log(arwen.battleCry());
 console.log(arwen.attack());
 ```
+
+CodePen: https://codepen.io/RubenSibon/pen/WNvwXom

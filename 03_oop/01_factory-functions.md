@@ -21,3 +21,5 @@ console.log(marwin.attack());
 ```
 
 Although above code is DRY there is a downside: for each new elf a new object is created and stored at a new address in memory. Each object has it's own properties and methods.
+
+CodePen: https://codepen.io/RubenSibon/pen/QWbNqVB
