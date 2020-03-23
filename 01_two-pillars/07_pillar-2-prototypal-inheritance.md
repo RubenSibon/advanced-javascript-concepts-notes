@@ -1,3 +1,5 @@
+# Pillar 2: Prototypal Inheritance
+
 Almost everything in JavaScript is an object. All objects inherit from other objects until all the way up to the **prototype chain** the base `Object`.
 
 `__proto__` can be used to extend objects to protypal objects, but should never be used!
